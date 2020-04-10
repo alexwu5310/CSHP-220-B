@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework01HelloWorldUpdated/1.0.0": {
+        "runtime": {
+          "Homework01HelloWorldUpdated.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework01HelloWorldUpdated/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
