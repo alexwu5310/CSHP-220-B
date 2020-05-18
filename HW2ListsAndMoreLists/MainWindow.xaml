@@ -1,0 +1,19 @@
+﻿<Window x:Class="HW2ListsAndMoreLists.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW2ListsAndMoreLists"
+        mc:Ignorable="d"
+        Title="Users Data Window" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="uxList">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Path=Name}" />
+                    <GridViewColumn Header="Password" DisplayMemberBinding="{Binding Path=Password}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HW2ListsAndMoreLists/1.0.0": {
+        "runtime": {
+          "HW2ListsAndMoreLists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW2ListsAndMoreLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\bin\Debug\netcoreapp3.1\Homework3SortingListViewColumns.exe
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\bin\Debug\netcoreapp3.1\Homework3SortingListViewColumns.deps.json
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\bin\Debug\netcoreapp3.1\Homework3SortingListViewColumns.runtimeconfig.json
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\bin\Debug\netcoreapp3.1\Homework3SortingListViewColumns.runtimeconfig.dev.json
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\bin\Debug\netcoreapp3.1\Homework3SortingListViewColumns.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\bin\Debug\netcoreapp3.1\Homework3SortingListViewColumns.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns.csprojAssemblyReference.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\App.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns_MarkupCompile.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns_MarkupCompile.lref
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns.g.resources
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns.AssemblyInfoInputs.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns.AssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\Homework3SortingListViewColumns\obj\Debug\netcoreapp3.1\Homework3SortingListViewColumns.pdb

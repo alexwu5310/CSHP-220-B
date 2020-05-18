@@ -1,0 +1,17 @@
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\bin\Debug\netcoreapp3.1\HW2ListsAndMoreLists.exe
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\bin\Debug\netcoreapp3.1\HW2ListsAndMoreLists.deps.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\bin\Debug\netcoreapp3.1\HW2ListsAndMoreLists.runtimeconfig.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\bin\Debug\netcoreapp3.1\HW2ListsAndMoreLists.runtimeconfig.dev.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\bin\Debug\netcoreapp3.1\HW2ListsAndMoreLists.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\bin\Debug\netcoreapp3.1\HW2ListsAndMoreLists.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists.csprojAssemblyReference.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\App.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists_MarkupCompile.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists_MarkupCompile.lref
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists.g.resources
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists.AssemblyInfoInputs.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists.AssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\HW2ListsAndMoreLists\obj\Debug\netcoreapp3.1\HW2ListsAndMoreLists.pdb
