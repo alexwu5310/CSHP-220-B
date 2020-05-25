@@ -1,0 +1,17 @@
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\bin\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.exe
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\bin\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.deps.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\bin\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.runtimeconfig.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\bin\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.runtimeconfig.dev.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\bin\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\bin\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.csprojAssemblyReference.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\App.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox_MarkupCompile.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox_MarkupCompile.lref
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.g.resources
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.AssemblyInfoInputs.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.AssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\HW4_ZipCodeTextBox\obj\Debug\netcoreapp3.1\HW4_ZipCodeTextBox.pdb

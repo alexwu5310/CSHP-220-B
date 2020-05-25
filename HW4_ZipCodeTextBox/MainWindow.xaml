@@ -1,0 +1,26 @@
+﻿<Window x:Class="HW4_ZipCodeTextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW4_ZipCodeTextBox"
+        mc:Ignorable="d"
+        Title="Zip/Postal Code Window" Height="121" Width="320">
+    <Grid>
+        <StackPanel RenderTransformOrigin="0.5,0.5">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.085"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <TextBlock Height="17" Width="258" RenderTransformOrigin="0.506,0.517" Text="Enter US Zip/CA Postal Code:" Visibility="Visible"/>
+            <TextBox x:Name="uxZip" 
+                Text="" Height="18" Width="264" PreviewTextInput="uxZip_PreviewTextInput" TextChanged="uxZip_TextChanged"/>
+            <TextBlock x:Name="uxWrongFormat" Text="*invalid fomat" HorizontalAlignment="Center" FontSize="14" Foreground="Red"></TextBlock>
+        </StackPanel>
+        <Button x:Name="uxSubmit" Height="20" Width="77" Content="Submit" Margin="112,48,112,10" IsEnabled="True"/>
+    </Grid>
+</Window>
