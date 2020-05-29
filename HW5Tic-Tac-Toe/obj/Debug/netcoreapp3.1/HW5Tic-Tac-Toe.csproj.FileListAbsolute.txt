@@ -1,0 +1,17 @@
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.csprojAssemblyReference.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\App.g.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe_MarkupCompile.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe_MarkupCompile.lref
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\bin\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.exe
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\bin\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.deps.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\bin\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.runtimeconfig.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\bin\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.runtimeconfig.dev.json
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\bin\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\bin\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.g.resources
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.AssemblyInfoInputs.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.AssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\HW5Tic-Tac-Toe\obj\Debug\netcoreapp3.1\HW5Tic-Tac-Toe.pdb
