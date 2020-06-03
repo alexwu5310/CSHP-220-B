@@ -1,0 +1,15 @@
+﻿.header {
+    padding: 30px;
+    background-color: black;
+    color: lightgray;
+}
+
+.btn {
+    color: white;
+    background-color: forestgreen;
+    text-decoration: none;
+}
+
+body {
+    background-color: #f1f1f1;
+}

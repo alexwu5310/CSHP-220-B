@@ -1,0 +1,33 @@
+﻿@model HW6BirthdayCardGenerator.Models.CustomData
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Birthday Card Sent</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="header">
+        <h4>Birthday Card Generator</h4>
+    </div>
+    <h1>Birthday Card Sent</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <p>From: @Model.Sender</p>
+            <p>To: @Model.Recipient</p>
+            <p>Message: @Model.Message</p>
+        </div>
+    </div>
+    <br/>
+    <div>
+        <p>©2016 - My ASP.NET Application</p>
+    </div>
+</body>
+</html>
