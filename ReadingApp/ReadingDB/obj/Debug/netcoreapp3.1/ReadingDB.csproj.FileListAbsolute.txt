@@ -1,0 +1,10 @@
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\bin\Debug\netcoreapp3.1\ReadingDB.deps.json
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\bin\Debug\netcoreapp3.1\ReadingDB.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\obj\Debug\netcoreapp3.1\ReadingDB.csprojAssemblyReference.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\obj\Debug\netcoreapp3.1\ReadingDB.AssemblyInfoInputs.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\obj\Debug\netcoreapp3.1\ReadingDB.AssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\bin\Debug\netcoreapp3.1\ReadingDB.runtimeconfig.json
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\bin\Debug\netcoreapp3.1\ReadingDB.runtimeconfig.dev.json
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\bin\Debug\netcoreapp3.1\ReadingDB.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\obj\Debug\netcoreapp3.1\ReadingDB.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingDB\obj\Debug\netcoreapp3.1\ReadingDB.pdb

@@ -1,0 +1,13 @@
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\bin\Debug\netcoreapp3.1\ReadingRepository.deps.json
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\bin\Debug\netcoreapp3.1\ReadingRepository.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\obj\Debug\netcoreapp3.1\ReadingRepository.csprojAssemblyReference.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\obj\Debug\netcoreapp3.1\ReadingRepository.AssemblyInfoInputs.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\obj\Debug\netcoreapp3.1\ReadingRepository.AssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\bin\Debug\netcoreapp3.1\ReadingRepository.runtimeconfig.json
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\bin\Debug\netcoreapp3.1\ReadingRepository.runtimeconfig.dev.json
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\bin\Debug\netcoreapp3.1\ReadingRepository.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\bin\Debug\netcoreapp3.1\ReadingDB.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\bin\Debug\netcoreapp3.1\ReadingDB.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\obj\Debug\netcoreapp3.1\ReadingRepository.csproj.CopyComplete
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\obj\Debug\netcoreapp3.1\ReadingRepository.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\ReadingApp\ReadingRepository\obj\Debug\netcoreapp3.1\ReadingRepository.pdb

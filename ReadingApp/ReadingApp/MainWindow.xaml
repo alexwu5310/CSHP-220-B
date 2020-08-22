@@ -1,0 +1,44 @@
+﻿<Window x:Class="ReadingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReadingApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1100">
+    <StackPanel>
+        <Menu>
+            <MenuItem Header="_File">
+                <MenuItem x:Name="uxAdd" Header="_Add" Click="uxAdd_Click"></MenuItem>
+                <MenuItem x:Name="uxModify" Header="_Modify" Click="uxModify_Click" Loaded="uxModify_Loaded"></MenuItem>
+                <MenuItem x:Name="uxDelete" Header="_Delete" Click="uxDelete_Click" Loaded="uxDelete_Loaded"></MenuItem>
+                <MenuItem Header="E_xit" Click="uxExit_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <ListView x:Name="uxReadingList" Height="350" SelectionChanged="uxContactList_SelectionChanged" MouseDoubleClick="uxReadingList_MouseDoubleClick">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem x:Name="uxContextAdd" Header="_Add" Click="uxAdd_Click"/>
+                    <MenuItem x:Name="uxContextModify" Header="_Modify" Click="uxModify_Click" Loaded="uxModify_Loaded"/>
+                    <MenuItem x:Name="uxContextDelete" Header="_Delete" Click="uxDelete_Click" Loaded="uxDelete_Loaded" />
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn x:Name="uxListHeader" DisplayMemberBinding="{Binding Title}" Header="Title" Width="250" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Author}" Header="Author" Width="100" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Type}" Header="Type" Width="70" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Page}" Header="Page" Width="50" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Notes}" Header="Notes" Width="auto" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Search by        "/>
+            <RadioButton x:Name="uxTitle" IsChecked="true">Title</RadioButton>
+            <RadioButton x:Name="uxAuthor">Author</RadioButton>
+        </StackPanel>
+
+        <TextBox x:Name="uxSearch" Text=""  TextChanged="uxSearch_TextChanged"/>
+    </StackPanel>
+</Window>
