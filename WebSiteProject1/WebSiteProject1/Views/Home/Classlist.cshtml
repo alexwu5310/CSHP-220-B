@@ -1,0 +1,79 @@
+﻿@model IEnumerable<WebSiteProject1.Db.Class>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Classlist</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="header">
+        <h4>Learning Center</h4>
+        <nav class="navbar">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="@Url.Action("Index", "Home")">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.Action("registerform", "Home")">
+                        Register
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.Action("login", "Home")">
+                        Login
+                    </a>
+                </li>
+                <li>
+                    <a asp-action="LogOff" asp-controller="Home">Log Off</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <h1>Class list</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClassName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClassDescription)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClassPrice)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClassName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClassDescription)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClassPrice)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div>
+        <p>©2016 - The Learning Center</p>
+    </div>
+</body>
+</html>

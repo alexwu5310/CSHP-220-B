@@ -1,0 +1,72 @@
+﻿@model WebSiteProject1.Models.EnrollModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EnrollInClass</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <div class="header">
+        <h4>Learning Center</h4>
+        <nav class="navbar">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="@Url.Action("Index", "Home")">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.Action("registerform", "Home")">
+                        Register
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.Action("login", "Home")">
+                        Login
+                    </a>
+                </li>
+                <li>
+                    <a asp-action="LogOff" asp-controller="Home">Log Off</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <hr />
+    <h1>Enroll Class</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="EnrollInClass">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ClassId" class="control-label"></label>
+                    @Html.DropDownListFor(t => t.ClassId, new[]
+                      {
+                        new SelectListItem{ Text="C#", Value="1"},
+                        new SelectListItem{Text="ASP.NET MVC", Value="2"},
+                        new SelectListItem{Text="Android", Value="3"},
+                        new SelectListItem{Text="Design Patterns", Value="4"},
+                      }, "Choose an option", htmlAttributes: new { @class = "form-control" })
+                    <span asp-validation-for="ClassId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Add Class" class="btn" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+
+</body>
+</html>

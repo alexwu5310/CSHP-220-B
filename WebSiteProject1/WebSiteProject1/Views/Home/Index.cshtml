@@ -1,0 +1,71 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="header">
+        <h4>Learning Center</h4>
+        <nav class="navbar">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="@Url.Action("Index", "Home")">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.Action("registerform", "Home")">
+                        Register
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.Action("login", "Home")">
+                        Login
+                    </a>
+                </li>
+                <li>
+                        <a asp-action="LogOff" asp-controller="Home">Log Off</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div>
+        <h1>The Learning Center</h1>
+        <p>The place for technology classes.</p>
+    </div>
+
+    <div>
+        <ul>
+            <li>
+                <a href="@Url.Action("classlist", "Home")">
+                    Classlist
+                </a>
+                <p>see all our class offerings.</p>
+            </li>
+            <li>
+                <a href="@Url.Action("enrollinclass", "Home")">
+                    Enroll In Class
+                </a>
+                <p>Take a new class.</p>
+            </li>
+            <li>
+                <a href="@Url.Action("studentclasses", "Home")">
+                    Student Classes
+                </a>
+                <p>see the classes you are enrolled in.</p>
+            </li>
+        </ul>
+    </div>
+    
+</body>
+</html>

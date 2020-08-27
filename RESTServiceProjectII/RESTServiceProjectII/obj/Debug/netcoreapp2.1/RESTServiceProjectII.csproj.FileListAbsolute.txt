@@ -1,0 +1,16 @@
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\appsettings.json
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\RESTServiceProjectII.deps.json
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\RESTServiceProjectII.runtimeconfig.json
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\RESTServiceProjectII.runtimeconfig.dev.json
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\RESTServiceProjectII.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.csprojAssemblyReference.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.RazorAssemblyInfo.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.RazorAssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.AssemblyInfoInputs.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.AssemblyInfo.cs
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.RazorTargetAssemblyInfo.cache
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\bin\Debug\netcoreapp2.1\RESTServiceProjectII.pdb
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.dll
+F:\C#Projects\CSHP220B\CSHP-220-B\RESTServiceProjectII\RESTServiceProjectII\obj\Debug\netcoreapp2.1\RESTServiceProjectII.pdb
